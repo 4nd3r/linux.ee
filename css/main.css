@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  max-width: 45em;
+  margin: 2em 4em;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
